@@ -1,5 +1,5 @@
 <p>
-  <h1>LaZY Checkers AI</h1>
+  <h1>RunnerRight</h1>
   <br />
   <p>
     An algorithm designed to detect improper running form to be implemented in an application
